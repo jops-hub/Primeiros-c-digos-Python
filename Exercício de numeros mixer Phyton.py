@@ -1,0 +1,8 @@
+print("2")
+print(2)
+print(0o123)
+print(0x123)
+print(2.5)
+print(-0.4)
+print(6.62607E-34)
+print(0.0000000000000000000001)
